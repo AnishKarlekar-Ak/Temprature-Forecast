@@ -4,4 +4,5 @@
 <hr>
 <p>This project first imports data, cleans it for analysis, new features are then engineered to make the prediction more accurate</p>
 <small>The dataset is downloaded from : https://www.visualcrossing.com/weather-history/Ahmedabad,India/</small>
+<hr>
 <small>Genral requirements include pandas, matplotlib, scikit-learn and the given dataset or anyother dataset with similar shape.</small>
